@@ -2,3 +2,6 @@ numpy
 opencv-python
 scikit-image
 matplotlib
+pandas
+scipy
+torch
